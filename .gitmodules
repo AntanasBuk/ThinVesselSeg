@@ -1,0 +1,3 @@
+[submodule "HRFormer"]
+	path = HRFormer
+	url = https://github.com/AntanasBuk/HRFormer.git
